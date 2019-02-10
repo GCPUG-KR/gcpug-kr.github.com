@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jungwono Park
   pic: 1
-  position: Lead Designer
+  position: Organizer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Jaeyeon Baek
   pic: 2
-  position: Lead Marketer
+  position: Organizer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Jiyeon Oh
   pic: 3
-  position: Lead Developer
+  position: Organizer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Jonggeon Kim
+  pic: 3
+  position: Organizer
   social:
     - title: twitter
       url: #
