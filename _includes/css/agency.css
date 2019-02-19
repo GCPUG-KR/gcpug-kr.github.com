@@ -255,6 +255,7 @@ fieldset[disabled] .btn-xl.active {
         border-radius: 3px;
     }
 
+    /* nav-bar 내려왔을때 배경색*/
     .navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #434a89;
