@@ -24,12 +24,10 @@ people:
   pic: 2
   position: Organizer
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/WeGuardia
+    - title: email
+      url: oops.jybaek+gdg@gmail.com
 
 - name: Jiyeon Oh
   pic: 3
