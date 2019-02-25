@@ -30,15 +30,13 @@ people:
       url: mailto:oops.jybaek+gdg@gmail.com
 
 - name: Jonggeon Kim
-  pic: 3
+  pic: Joshua
   position: Organizer
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/profile.php?id=100005101427027
+    - title: envelope 
+      url: mailto:syjkim0125@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
